@@ -1,0 +1,9 @@
+com\tallsafe\springbootmybatis\config\mybatis\MapperScannerConfig.class
+com\tallsafe\springbootmybatis\service\SysUserService.class
+com\tallsafe\springbootmybatis\config\mybatis\DataSourceConfig.class
+com\tallsafe\springbootmybatis\service\impl\SysUserServiceImpl.class
+com\tallsafe\springbootmybatis\controller\SysUserController.class
+com\tallsafe\springbootmybatis\SpringbootMybatisApplication.class
+com\tallsafe\springbootmybatis\dao\SysUserMapper.class
+com\tallsafe\springbootmybatis\config\mybatis\MyBatisConfig.class
+com\tallsafe\springbootmybatis\model\SysUser.class
